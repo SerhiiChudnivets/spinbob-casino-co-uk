@@ -180,7 +180,7 @@
   "login_text": "Login",
   "register_text": "Sign Up",
   "slots_title": "Slots Spinbob ",
-  "bonus_title": " Promotions ",
+  "bonus_title": "Promotions ",
   "get_bonus_btn_text": "Get Bonus",
   "redirect_link": "/play/",
   "home_name": "Spinbob Casino",
@@ -379,8 +379,8 @@
       "question": "How do I find games where bets count toward the bonus wagering requirements?"
     }
   ],
-  "_generated_at": "2026-10-13T12:48:37.741Z",
+  "_generated_at": "2026-10-13T12:50:58.849Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-13T12:48:38.353Z",
-  "_deploy_trigger": "ub603i"
+  "_last_deploy": "2026-10-13T12:50:59.414Z",
+  "_deploy_trigger": "awqekw"
 }
